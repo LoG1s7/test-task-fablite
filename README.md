@@ -74,6 +74,7 @@ docker compose -f infra/docker-compose.yml down -v
 http://localhost/admin
 ```
 #### Документация API
+Все эндпоинты можно посмотреть в документации
 ```bash
 http://localhost/api/docs
 ```
